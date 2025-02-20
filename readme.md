@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ansubha Dhar</h1>
 <h3 align="center">A Coding enthusiast and Electrical Engineer (B.Tech), IEM, Kolkata, India</h3>
 
@@ -12,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://devfolio.co/@ansubha_dhar_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devfolio.co/@ansubha_dhar_20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ansubha-dhar-856176296?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b%2blf12ulqtrskx1guoeux2q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ansubha-dhar-856176296?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b%2blf12ulqtrskx1guoeux2q%3d%3d" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rikstar_bro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rikstar_bro/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ansubha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ansubha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ansubhadhar2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ansubhadhar2012" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ansubha_dhar_2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ansubha_dhar_2004/" height="30" width="40" /></a>
+<a href="https://dev.to/@ansubha_dhar_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ansubha_dhar_20" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ansubha-dhar-856176296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansubha-dhar-856176296" height="30" width="40" /></a>
+<a href="https://instagram.com/rikstar_bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rikstar_bro" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ansubha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ansubha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@ansubhadhar2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ansubhadhar2012" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ansubha_dhar_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ansubha_dhar_2004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
