@@ -1,4 +1,4 @@
-![logo](https://github.com/saugnik/Saugnik/blob/main/ansubha_banners.png)
+![logo](./ansubha_banners.png)
 <h1 align="center">Hi 👋, I'm Ansubha Dhar</h1>
 <h3 align="center">A Coding enthusiast and Electrical Engineer (B.Tech), IEM, Kolkata, India</h3>
 
