@@ -4,13 +4,21 @@
 
 # 💫About Me :
 🔭 I'm currently working on Frontend development projects 
+<br>
 🌱 I’m currently learning Frameworks, DBMS and DSA
+<br>
 💬 Ask me about Web Development and Problem solving
+<br>
 🚀 Currently exploring Backend Technologies, Deployment and Machine Learning
+<br>
 🎯 Mastering Full Stack Development , Machine learning & DSA
+<br>
 📫 Reach me at: ansubhadhar2012@gmail.com
+<br>
 📝 Know my skills and experiences: https://drive.google.com/file/d/15bevAIAn4mYK8Byz1qbDVvLAfMI0OZPv/view?usp=drive_link
+<br>
 👨🏻‍💻 Very interested to collaborate for software projects and participation in Hackathons and Tech Events 
+<br>
 
 
 
