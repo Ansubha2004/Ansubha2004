@@ -9,7 +9,7 @@
 <br>
 💬 Ask me about Web Development and Problem solving
 <br>
-🚀 Currently exploring Backend Technologies, Deployment and Machine Learning
+🚀 Currently exploring Backend Technologies, Deployment 
 <br>
 🎯 Mastering Full Stack Development , Machine learning & DSA
 <br>
